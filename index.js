@@ -1,3 +1,9 @@
+//stetch
+server.use(express.json())
+
+server.use(cors())
+
+
 // npm i
 // npm i express;
 // npm run server
